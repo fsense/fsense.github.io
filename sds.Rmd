@@ -6,8 +6,6 @@ My academic background is in cognitive psychology, computational neuroscience, a
 
 *Sense Data Science* is the name under which I offer freelance data scientist, consulting, and data analysis services. 
 
-<!-- *Sense Data Science* is the company through which I offer a range of data science services as a freelance cognitive data scientist. *Sense Data Science* was registered at the Dutch chamber of commerce under [KVK](https://www.kvk.nl/) number 75243466 with tax identification number (btw-identificatienummer): NL002458897B65.  -->
-
 -----
 
 <div style="text-align:center"> <img src="./img/FlorianSense.png" alt="my face" width="110" height="110" /> </div>

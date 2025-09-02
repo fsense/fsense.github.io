@@ -5,7 +5,7 @@ title: "Florian Sense"
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-I am a contractor through [Infinite Tactics](https://infinitetactics.com/www/) working on computerized, adaptive learning with Tiffany Jastrzembski/Myers's team at the [Air Force Research Laboratory at Wright-Patterson](https://www.wpafb.af.mil/afrl/711HPW/). Together with [Hedderik van Rijn](https://van-rijn.org/), I co-supervise [Thomas Wilschut](https://www.thomaswilschut.com/)'s Phd project at the University of Groningen. I was also [Maarten van der Velde](https://www.maartenvandervelde.com/)'s co-supervisor during his PhD project (together with Hedderik and [Jelmer Borst](https://www.jelmerborst.nl/)).
+I am a contractor through [Infinite Tactics](https://infinitetactics.com/www/) working on computerized, adaptive learning with Tiffany Myers's team at the [Air Force Research Laboratory at Wright-Patterson](https://www.wpafb.af.mil/afrl/711HPW/). Together with [Hedderik van Rijn](https://van-rijn.org/), I co-supervise [Thomas Wilschut](https://www.thomaswilschut.com/)'s Phd project at the University of Groningen. I was also [Maarten van der Velde](https://www.maartenvandervelde.com/)'s co-supervisor during his PhD project (together with Hedderik and [Jelmer Borst](https://www.jelmerborst.nl/)).
 
 This website gives an overview of the peer-reviewed academic work I have (co-)authored, my CV, and my freelance data scientist work. Please use the menu above to find what you are interested in.
 

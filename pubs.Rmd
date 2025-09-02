@@ -32,6 +32,15 @@ Distributed Patterns of Functional Connectivity Underlie Individual Differences 
 
 ### Published
 
+Wilschut, T., van der Velde, M., **Sense, F.**, Finn, B., Arslan, B., & van Rijn, H. (2025).  
+Benefits of pretesting prior to retrieval practice are limited, unless used for prior knowledge–based personalization.  
+*Journal of Experimental Psychology: Applied*
+
+Wilschut, T., **Sense, F.**, & van Rijn, H. (2025).  
+Modality Matters: Evidence for the Benefits of Speech‐Based Adaptive Retrieval Practice in Learners with Dyslexia.  
+*Topics in Cognitive Science*, 17 (1), 57-72.  
+<i class="fas fa-home"></i> [10.1111/tops.12769](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tops.12769) (open access)  
+
 Wilschut, T., **Sense, F.**, & van Rijn, H. (2024).  
 Speaking to remember: Model-based Adaptive Vocabulary Learning Using Automatic Speech Recognition.  
 *Computer Speech & Language*, 84, 101578.  
