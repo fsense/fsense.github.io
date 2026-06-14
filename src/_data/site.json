@@ -1,0 +1,17 @@
+{
+  "title": "Florian Sense",
+  "author": "Florian Sense",
+  "description": "Researcher working on computational cognitive science, applied machine learning, and language assessment.",
+  "url": "https://www.floriansense.com",
+  "email": "floriansense@gmail.com",
+  "nav": [
+    { "text": "Home", "url": "/" },
+    { "text": "What I do", "url": "/what-i-do/" },
+    { "text": "Selected papers", "url": "/papers/" },
+    { "text": "About", "url": "/about/" }
+  ],
+  "social": [
+    { "text": "Email", "url": "mailto:floriansense@gmail.com" },
+    { "text": "Google Scholar", "url": "https://scholar.google.com/citations?hl=en&user=e38VtRgAAAAJ" }
+  ]
+}
